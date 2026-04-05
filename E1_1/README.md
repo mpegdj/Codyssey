@@ -209,6 +209,14 @@ To try something more ambitious, you can run an Ubuntu container with:
 ### 4.5 `hello-world` 및 `ubuntu`
 
 ```bash
+mpeg46551@c5r1s2 Codyssey % docker run hello-world
+
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+
+CONTAINER ID   IMAGE         COMMAND    CREATED              STATUS                          PORTS     NAMES
+eb67e212624f   hello-world   "/hello"   About a minute ago   Exited (0) About a minute ago             tender_tu
+
 mpeg46551@c5r1s2 test-dir % docker run -it ubuntu bash
 Unable to find image 'ubuntu:latest' locally
 latest: Pulling from library/ubuntu
