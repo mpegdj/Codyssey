@@ -12,3 +12,4 @@
 [김병철](https://github.com/feelosophysics/E1-2))
 [*오철호] (https://github.com/chul5/workstation)
 [김예주] (https://github.com/yejoo0310/codyssey-m1)
+[박주영] (https://github.com/juice-devlog/Codyssey1)
