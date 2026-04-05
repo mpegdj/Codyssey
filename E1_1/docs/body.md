@@ -10,3 +10,5 @@
 [박채연](https://github.com/seven2762/Codyssey-workstation)
 [*백동재](https://github.com/VectorSophie/codyssey-e1-1)
 [김병철](https://github.com/feelosophysics/E1-2))
+[*오철호] (https://github.com/chul5/workstation)
+[김예주] (https://github.com/yejoo0310/codyssey-m1)
